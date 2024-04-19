@@ -14,19 +14,19 @@ timezone:
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Chirpy # the main title
+title: Pedro Leite # the main title
 
-tagline: A text-focused Jekyll theme # it will display as the sub-title
+tagline: Hi! Welcome to my portfolio.
+# it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  A minimal, responsive and feature-rich Jekyll theme for technical writing.
-
+Here, you'll find everything you need about my work (and more than you'd like to know about me).
 # Fill in the protocol & hostname for your site.
 # e.g. 'https://username.github.io', note that it does not end with a '/'.
-url: ""
+url: "https://pdrfleite.github.io"
 
 github:
-  username: github_username # change to your github username
+  username: pdrfleite # change to your github username
 
 twitter:
   username: twitter_username # change to your twitter username
