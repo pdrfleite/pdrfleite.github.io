@@ -9,21 +9,21 @@ theme: jekyll-theme-chirpy
 lang: en
 
 # Change to your timezone › https://kevinnovak.github.io/Time-Zone-Picker
-timezone: Europe-Lisbon
+timezone: 
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Pedro M. Leite # the main title
+title: 'Pedro Leite' # the main title
 
-tagline: Hi! Welcome to my portfolio.
+tagline: 'Hi! Welcome to my portfolio.'
 # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-Here, you'll find everything you need about my work (and more than you'd like to know about me).
+"Here, you'll find everything you need about my work (and more than you'd like to know about me)."
 # Fill in the protocol & hostname for your site.
 # e.g. 'https://username.github.io', note that it does not end with a '/'.
-url: "https://pdrfleite.github.io"
+url: 'https://pdrfleite.github.io'
 
 github:
   username: pdrfleite # change to your github username
