@@ -13,14 +13,14 @@ While you're here though, this is what I've been up to.
 
 #### Experience
 
-**Devexperts**, 2023  
+**Devexperts**, 2023  <br>
 
 *Technical Writer*
 - External documentation for trading software.
 - Internal documentation for developers.
 - Magnolia CMS management.
 
-**Bindtuning**, 2019-2022  
+**Bindtuning**, 2019-2022  <br>
 
 *Support Engineer*
 - Resolution of escalated customer-facing and/or product issues.
@@ -35,7 +35,7 @@ While you're here though, this is what I've been up to.
 
 *Master's in Architecture*
 
-**Universidade do Minho**, 2018-2020  
+**Universidade do Minho**, 2018-2020  <br>
 
 *Master's in Information Systems*
 - Databases.
@@ -45,7 +45,7 @@ While you're here though, this is what I've been up to.
 - Networks and Communication.
 - Software Testing.
 
-**Universidade do Minho**, 2015-2018  
+**Universidade do Minho**, 2015-2018 <br> 
 
 *Bachelor's in Applied Languages*
 - Foreign Languages.
@@ -71,7 +71,7 @@ While you're here though, this is what I've been up to.
 
 ### Software
 
-**Advanced User**  
+**Advanced User**  <br>
 
 *Web Semantics*
  - HTML
@@ -85,8 +85,7 @@ While you're here though, this is what I've been up to.
 - Photoshop
 - XD
 
-**Intermediate User**  
-
+**Intermediate User**  <br>
 *Programming*
 - Python
 - Javascript
