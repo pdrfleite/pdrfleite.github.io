@@ -7,21 +7,19 @@ order: 4
 <!-->> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
 {: .prompt-tip }-->
 
-Well met traveller... It seems I have piqued you're interest! Unfortunately, there's nothing else to see here...
+Well met traveller! It seems I have piqued you're interest. Unfortunately, there's nothing else to see...
 
-While you're here though, this is what I've been up to.
+While you're here though... This is what I've been up to.
 
 #### Experience
 
-**Devexperts**, 2023  <br>
-
+**Devexperts**, 2023
 *Technical Writer*
 - External documentation for trading software.
 - Internal documentation for developers.
 - Magnolia CMS management.
 
-**Bindtuning**, 2019-2022  <br>
-
+**Bindtuning**, 2019-2022
 *Support Engineer*
 - Resolution of escalated customer-facing and/or product issues.
 - Customer training and support.
@@ -35,8 +33,7 @@ While you're here though, this is what I've been up to.
 
 *Master's in Architecture*
 
-**Universidade do Minho**, 2018-2020  <br>
-
+**Universidade do Minho**, 2018-2020
 *Master's in Information Systems*
 - Databases.
 - Software Engineering.
@@ -45,8 +42,7 @@ While you're here though, this is what I've been up to.
 - Networks and Communication.
 - Software Testing.
 
-**Universidade do Minho**, 2015-2018 <br> 
-
+**Universidade do Minho**, 2015-2018
 *Bachelor's in Applied Languages*
 - Foreign Languages.
 - Linguistics.
@@ -71,8 +67,7 @@ While you're here though, this is what I've been up to.
 
 ### Software
 
-**Advanced User**  <br>
-
+**Advanced User**
 *Web Semantics*
  - HTML
  - CSS
@@ -85,11 +80,10 @@ While you're here though, this is what I've been up to.
 - Photoshop
 - XD
 
-**Intermediate User**  <br>
-*Programming*
+**Intermediate User** 
+*Programming & Design*
 - Python
 - Javascript
 - SQL
-
-*Design Tools*
 - Figma
+
