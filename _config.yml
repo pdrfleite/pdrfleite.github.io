@@ -14,13 +14,13 @@ timezone:
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: 'Pedro' # the main title
+title: 'Pedro Leite' # the main title
 
 tagline: 'Hi! Welcome to my portfolio.'
 # it will display as the sub-title
 
-description: >- # used by seo meta and the atom feed
-"Here, you'll find everything you need about my work (and more than you'd like to know about me)."
+description: "Here, you'll find everything you need about my work (and more than you'd like to know about me)."
+
 # Fill in the protocol & hostname for your site.
 # e.g. 'https://username.github.io', note that it does not end with a '/'.
 url: 'https://pdrfleite.github.io'
