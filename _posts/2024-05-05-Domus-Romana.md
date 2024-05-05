@@ -7,8 +7,6 @@ tags: [design]
 
 ---
 
-#### *Domus Romana*
-
 #### Description
 
 College project. Create a new typology of roman *domus* based on historical constraints. The project required to create a portfolio, which should include design process, historical context, and model photographs. 
