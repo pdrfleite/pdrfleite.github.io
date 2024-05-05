@@ -1,8 +1,10 @@
 ---
-title: Domus Romana
-date: 2024-05-05 00:40:00 +0000
+
+title: "Domus Romana"
+date: 2024-05-05 00:00:00 +0000
 categories: [Design, Architecture]
 tags: [design]
+
 ---
 
 #### *Domus Romana*
