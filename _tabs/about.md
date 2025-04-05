@@ -7,7 +7,7 @@ order: 4
 <!-->> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
 {: .prompt-tip }-->
 
-Well met traveller! It seems I have piqued you're interest. Unfortunately, there's nothing else to see...
+Well met traveller! It seems I have piqued your interest. Unfortunately, there's nothing else to see...
 
 While you're here though... This is what I've been up to.
 
@@ -15,19 +15,21 @@ While you're here though... This is what I've been up to.
 
 **Devexperts**, 2023
 *Technical Writer*
+
 - External documentation for trading software.
 - Internal documentation for developers.
 - Magnolia CMS management.
 
 **Bindtuning**, 2019-2022
 *Support Engineer*
+
 - Resolution of escalated customer-facing and/or product issues.
 - Customer training and support.
 - Scripting and debugging.
 - CMS’s multi-platform support.
 - Knowledge Base maintenance and article creation.
- 
-#### Education 
+
+#### Education
 
 **Faculdade de Arquitetura da Universidade do Porto**, 2023  
 
@@ -35,6 +37,7 @@ While you're here though... This is what I've been up to.
 
 **Universidade do Minho**, 2018-2020
 *Master's in Information Systems*
+
 - Databases.
 - Software Engineering.
 - Cyber Security.
@@ -44,6 +47,7 @@ While you're here though... This is what I've been up to.
 
 **Universidade do Minho**, 2015-2018
 *Bachelor's in Applied Languages*
+
 - Foreign Languages.
 - Linguistics.
 - Literature.
@@ -69,21 +73,23 @@ While you're here though... This is what I've been up to.
 
 **Advanced User**
 *Web Semantics*
- - HTML
- - CSS
- - XML
- - Markdown
+
+- HTML
+- CSS
+- XML
+- Markdown
 
 *Adobe Suite*
+
 - Illustrator
 - InDesign
 - Photoshop
 - XD
 
-**Intermediate User** 
+**Intermediate User**
 *Programming & Design*
+
 - Python
 - Javascript
 - SQL
 - Figma
-
