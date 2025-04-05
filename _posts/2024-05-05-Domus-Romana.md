@@ -9,40 +9,41 @@ tags: [design]
 
 #### Description
 
-College project. Create a new typology of roman *domus* based on historical constraints. The project required to create a portfolio, which should include design process, historical context, and model photographs. 
+College project. Create a new typology of roman *domus* based on historical constraints. The project required to create a portfolio, which should include design process, historical context, and model photographs.
 
 #### Historical context
 
 Analyze real roman domestic architecture.
 ![Ideation_1](../assets/img/domus/domus_2.jpg){: height="600" }
- _Casa del Fauno_
+ *Casa del Fauno*
 
 #### Design process
 
-Ideation and concept execution. 
+Ideation and concept execution.
 
 ![Ideation_1](../assets/img/domus/domus_0.jpg)
-_First iteration_
+*First iteration*
 ![Ideation_2](../assets/img/domus/domus_1.jpg)
-_Final iteration_
+*Final iteration*
 
-#### Model making 
-Create cardboard model based on final iteration. 
+#### Model making
+
+Create cardboard model based on final iteration.
 
 ![Aerial model-view](../assets/img/domus/caderno21.jpg)
-_Aerial view_
+*Aerial view*
 ![Montage](../assets/img/domus/caderno24.jpg)
-_Digital model montage_
+*Digital model montage*
 
 #### Portfolio design & layout
 
 Desing portfolio layout and print.
 
 ![Cover](../assets/img/domus/caderno.jpg){: height="600" }
-_Cover page_
+*Cover page*
 
 ![Index](../assets/img/domus/caderno3.jpg){: height="600" }
-_Index_
+*Index*
 
 ![Page spread](../assets/img/domus/caderno_final.jpg)
-_Page spread_
+*Page spread*
