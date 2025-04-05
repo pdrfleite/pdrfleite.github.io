@@ -7,7 +7,8 @@ order: 4
 <!-->> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
 {: .prompt-tip }-->
 
-Well met traveller! It seems I have piqued your interest. Unfortunately, there's nothing else to see...
+Well met traveller! It seems I have piqued your interest.
+Unfortunately, there's nothing else to see...
 
 While you're here though... This is what I've been up to.
 
