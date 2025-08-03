@@ -9,7 +9,7 @@ tags: [design]
 
 #### Description
 
-Home project. Create a pine wall hanger
+Home project. Create a pine wall hanger.
 
 #### Design process
 
@@ -21,7 +21,7 @@ Ideation and concept execution.
 
 #### Render
 
-Model without texture(Rhino)
+Model without texture (**Rhino**)
 
 ![Model](../assets/img/hanger/render_wood.png)
 *Rhino model*
